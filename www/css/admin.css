@@ -1,0 +1,12 @@
+.table td { vertical-align: middle !important; }
+.table th { text-align: center !important; background-color: #101010; color: #cccccc; }
+
+.el-message{padding:0px 15px 0px 15px;margin:0px 0px 15px 0px;border:1px solid #eee;border-left-width:5px;border-radius:3px}
+.el-message p:last-child{margin-bottom:0}
+.el-message code{border-radius:3px}
+.el-message+.el-message{margin-top:-5px}
+.el-message-danger{background-color: #f2dede; border-color: #ebccd1; border-left-color:#ce4844;color:#ce4844;}
+.el-message-warning{background-color: #fcf8e3; border-color: #faebcc; border-left-color:#aa6708;color:#aa6708;}
+.el-message-success{background-color: #dff0d8; border-color: #d6e9c6; border-left-color:#3c763d;color:#3c763d;}
+.el-message-info{background-color: #d9edf7; border-color: #bce8f1;border-left-color:#1b809e; color: #31708f;}
+.el-message-default{border-color: #eeeeee;border-left-color:#cccccc; }
